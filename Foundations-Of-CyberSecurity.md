@@ -1,4 +1,4 @@
-## 📜 Linux & SQL Certification
+## 📜 Foundations of Cybersecurity
 
 **Certificate of Completion:**  
 ![image](https://github.com/user-attachments/assets/021adc32-fa64-4ed9-9751-3aa1d511991b)
