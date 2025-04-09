@@ -1,4 +1,4 @@
-## 📜 Linux & SQL Certification
+## 📜 Sound the Alarm: Detection and Response
 
 **Certificate of Completion:**  
 ![image](https://github.com/user-attachments/assets/b569fdf6-6328-43f2-bbd9-bf78f5472fbe)
