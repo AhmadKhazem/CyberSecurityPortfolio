@@ -34,4 +34,16 @@
 - Gained insight into how SQL communicates with databases for data retrieval and reporting.  
 - Recognized the importance of database skills in cybersecurity for incident analysis and monitoring.
 
-**📁 Images:**  
+## **📁 Images:** 
+### Module 1 Challenge:
+![image](https://github.com/user-attachments/assets/13638591-dd88-45cf-930a-d112aee25cd6)
+
+### Module 2 Challenge:
+![image](https://github.com/user-attachments/assets/cc57a18a-41aa-4c4a-85c5-aa11906ebe50)
+
+## Module 3 Challenge:
+![image](https://github.com/user-attachments/assets/24a46684-7abd-4a25-9ff3-33fb17680baa)
+
+## Module 4 Challenge:
+![image](https://github.com/user-attachments/assets/b7b274a7-07ab-4509-a8ea-4f6b933d653a)
+
