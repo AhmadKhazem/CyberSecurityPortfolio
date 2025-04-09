@@ -37,6 +37,11 @@
 - Navigated and utilized IDS and SIEM interfaces for monitoring and detection tasks.
 
 ## **📁 Images:** 
+
+![image](https://github.com/user-attachments/assets/1178ba48-12bf-4e09-9234-d83696333c0c)
+
+![image](https://github.com/user-attachments/assets/70c22bed-092c-4c26-9c8f-01146f686036)
+
 ### Module 1 Challenge:
 ![image](https://github.com/user-attachments/assets/6ce54c7d-077a-427e-bb9f-2a11a6039c61)
 
