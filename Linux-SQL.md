@@ -1,7 +1,8 @@
 ## 📜 Linux & SQL Certification
 
 **Certificate of Completion:**  
-[![Coursera Certificate](https://img.shields.io/badge/View%20Certificate-Click%20Here-blue)](https://github.com/AhmadKhazem/CyberSecurityPortfolio/blob/main/Coursera%20CNUQMZ5SILQ0.pdf)
+[![Coursera Certificate](https://img.shields.io/badge/View%20Certificate-Click%20Here-blue)](![image](https://github.com/user-attachments/assets/32545851-4b99-4782-aeb4-befa091403f1)
+)
 
 🧠 **Skills Learned:**
 
