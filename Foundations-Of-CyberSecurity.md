@@ -1,48 +1,52 @@
 ## 📜 Linux & SQL Certification
 
 **Certificate of Completion:**  
-[![Coursera Certificate](https://img.shields.io/badge/View%20Certificate-Click%20Here-blue)](https://github.com/AhmadKhazem/CyberSecurityPortfolio/blob/main/Coursera%20CNUQMZ5SILQ0.pdf)
+![image](https://github.com/user-attachments/assets/021adc32-fa64-4ed9-9751-3aa1d511991b)
+
 
 🧠 **Skills Learned:**
 
-### **Linux**  
-- Understood the role of Linux as an open-source operating system frequently used in cybersecurity.  
-- Learned the architecture of the Linux operating system.  
-- Identified features of popular Linux distributions (distros).  
-- Explored the Linux shell as a way for users to interact with the OS.
+### **Cybersecurity**  
+- Defined the field of cybersecurity and the evolving nature of security threats.  
+- Explored the responsibilities of an entry-level security analyst.  
+- Gained insight into how cybersecurity professionals protect networks and information.  
+- Recognized the core skills and knowledge required for starting a career in security.  
+- Understood the historical evolution of cyber threats and their impact on the development of the field.  
+- Identified common types of cyberattacks and how they affect business operations.  
+- Learned the CISSP eight security domains.
 
-### **Operating Systems**  
-- Gained knowledge of how operating systems manage hardware and software.  
-- Learned to identify the main functions of an OS.  
-- Compared different OS types including GUI-based and command-line-based interfaces.  
-- Understood the interaction between OS, applications, and hardware components.
+### **Security Information and Event Management (SIEM)**  
+- Identified the use of SIEM tools by security analysts to detect, monitor, and respond to security threats.  
+- Understood how SIEM helps in organizing and analyzing data from various sources to manage risk.  
+- Recognized SIEM as a key tool in identifying patterns and anomalies in network behavior.
 
-### **Linux Commands**  
-- Navigated and managed the Linux file system using Bash shell commands.  
-- Handled file permissions and understood Linux’s user authentication and authorization model.  
-- Used `sudo` to perform administrative tasks.  
-- Accessed independent resources to learn and use additional Linux commands effectively.
+### **Security Management**  
+- Gained knowledge of security frameworks such as the NIST Cybersecurity Framework (CSF).  
+- Understood the role of the CIA triad (Confidentiality, Integrity, Availability) in maintaining secure systems.  
+- Learned how to apply frameworks to develop effective security procedures and policies.  
+- Discussed security ethics and their importance in professional cybersecurity roles.
 
-### **SQL**  
-- Used SQL for querying and interacting with databases.  
-- Applied filters to refine query results.  
-- Performed joins to combine data from multiple tables.  
-- Learned how SQL plays a role in cybersecurity data analysis and investigations.
+### **Security Controls**  
+- Defined security controls and their function in reducing organizational risk.  
+- Learned how frameworks and policies are implemented to safeguard against threats and vulnerabilities.  
+- Explored control types like administrative, technical, and physical controls within an organization.
 
-### **Database Management**  
-- Understood the structure of relational databases.  
-- Gained insight into how SQL communicates with databases for data retrieval and reporting.  
-- Recognized the importance of database skills in cybersecurity for incident analysis and monitoring.
+### **Incident Response**  
+- Learned how cybersecurity tools and programming languages (like SQL and Python) are used in responding to incidents.  
+- Understood how analysts use network protocol analyzers to investigate and respond to suspicious activity.  
+- Recognized how the identification and use of proper tools are essential in incident mitigation and prevention.
+
 
 ## **📁 Images:** 
 ### Module 1 Challenge:
-![image](https://github.com/user-attachments/assets/13638591-dd88-45cf-930a-d112aee25cd6)
+![image](https://github.com/user-attachments/assets/bbf1e5f7-d143-4a50-abf7-4604743e0a4f)
 
 ### Module 2 Challenge:
-![image](https://github.com/user-attachments/assets/cc57a18a-41aa-4c4a-85c5-aa11906ebe50)
+![image](https://github.com/user-attachments/assets/381c6a97-4b73-4491-a854-0bec3e5101bf)
 
 ## Module 3 Challenge:
-![image](https://github.com/user-attachments/assets/24a46684-7abd-4a25-9ff3-33fb17680baa)
+![image](https://github.com/user-attachments/assets/c75aa4df-5d8f-47e1-b8a5-943da82995df)
 
 ## Module 4 Challenge:
-![image](https://github.com/user-attachments/assets/b7b274a7-07ab-4509-a8ea-4f6b933d653a)
+![image](https://github.com/user-attachments/assets/4b883d6b-1ba2-4ba1-b8d4-789b9a1ba31c)
+
