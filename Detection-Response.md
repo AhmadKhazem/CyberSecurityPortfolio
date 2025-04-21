@@ -36,21 +36,5 @@
 - Performed basic search queries in SIEM tools to investigate suspicious activities.  
 - Navigated and utilized IDS and SIEM interfaces for monitoring and detection tasks.
 
-## **📁 Images:** 
 
-![image](https://github.com/user-attachments/assets/1178ba48-12bf-4e09-9234-d83696333c0c)
-
-![image](https://github.com/user-attachments/assets/70c22bed-092c-4c26-9c8f-01146f686036)
-
-### Module 1 Challenge:
-![image](https://github.com/user-attachments/assets/6ce54c7d-077a-427e-bb9f-2a11a6039c61)
-
-### Module 2 Challenge:
-![image](https://github.com/user-attachments/assets/dbbc29a1-ee3a-4b05-876f-8ac6080192b5)
-
-## Module 3 Challenge:
-![image](https://github.com/user-attachments/assets/64e309ba-2d37-451c-8c3f-035d4288e3ae)
-
-## Module 4 Challenge:
-![image](https://github.com/user-attachments/assets/db4af841-8630-4694-9f81-87bbe4c4973c)
 
